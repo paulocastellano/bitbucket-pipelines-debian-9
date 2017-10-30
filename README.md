@@ -6,7 +6,7 @@
 
 More help in Bitbucket's [Confluence](https://confluence.atlassian.com/bitbucket/bitbucket-pipelines-beta-792496469.html)
 
-Docker image at [smartapps/bitbucket-pipelines-debian-9](https://hub.docker.com/r/smartapps/bitbucket-pipelines-debian-9/) (no `CMD` as it is overriden by *Pipelines*)
+Docker image at [/bitbucket-pipelines-debian-9/](https://hub.docker.com/r/paulocastellano/bitbucket-pipelines-debian-9/) (no `CMD` as it is overriden by *Pipelines*)
 
 ## Packages installed
 
