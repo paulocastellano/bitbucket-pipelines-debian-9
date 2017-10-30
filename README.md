@@ -22,7 +22,7 @@ Docker image at [/bitbucket-pipelines-debian-9/](https://hub.docker.com/r/pauloc
 ## Sample `bitbucket-pipelines.yml`
 
 ```YAML
-image: smartapps/bitbucket-pipelines-debian-9
+image: paulocastellano/bitbucket-pipelines-debian-9/
 pipelines:
   default:
     - step:
